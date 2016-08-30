@@ -9,13 +9,13 @@ permalink: /projects/
 
 ---
 
-## 其他Projects
+## Other Projects
 
 ### project名字
 project的简介。
 
 ---
 
-## 联系我
+## Contact me
 
 [923538827@qq.com](mailto:923538827@qq.com)
